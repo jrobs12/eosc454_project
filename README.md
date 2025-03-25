@@ -1,2 +1,2 @@
 # eosc454_project
-Applied Geophysics Final Project
+Simulation of 2+ Layer Glacier Using TEM Inversion
