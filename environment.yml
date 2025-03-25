@@ -1,0 +1,10 @@
+name: glacier
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - numpy
+  - scipy
+  - simpeg
+  - matplotlib
+  - python=3.11
