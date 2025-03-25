@@ -17,5 +17,12 @@ Figure 1: (From Blatter et al, 2018). Subglacial conductor model (left) with 150
 - python file with function to make model and predict data
 - notebook to complete inversion
 
+#### Instructions
+1. Install environment file `conda env create -f environment.yml`
+2. Activate environment file  `conda activate glacier`
+3. Download and upload the notebook(s) to your personal Jupyter
+   
+   ** Note: Run all notebooks in the same directory
+
 ## Refrences
 Blatter et al., 2018, Trans-Dimensional Bayesian Inversion of Airborne Transient EM Data From Taylor Glacier, Antarctica, Geophysical Journal International, 2018, 214,1919–1936.
