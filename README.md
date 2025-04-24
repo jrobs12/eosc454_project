@@ -1,4 +1,4 @@
-# Simulation of 2+ Layer Glacier Using TEM Inversion
+# 1-Dimensional Inversion of Synthetic Glacier Data
 ### Jamie Robson (2025)
 
 This repository outlines the project in which Time Domain Magnetics (TEM) data are used to simulate a 2 layer glacier model. This project is based on data gather from the Taylor Glacier in Antarctica and the subsequent inversion by Blatter et al in 2018. The conductivities and survey set up are taken from this paper, the inversion method is made simpler to make the project doable.
